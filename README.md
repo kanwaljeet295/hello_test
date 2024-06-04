@@ -1,2 +1,2 @@
-# hello_test
+# hello_World
 Setting Up GIT
